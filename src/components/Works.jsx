@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 const GITHUB_USERNAME = 'UniqCoder'
 
 // Repos to hide
-const HIDDEN = ['sih-frontend', 'PathPilot', 'argus', 'UniqCoder.github.io', 'NEXTGEN', 'DEMO']
+const HIDDEN = ['sih-frontend', 'PathPilot', 'argus', 'UniqCoder.github.io', 'NEXTGEN', 'DEMO', 'Portfolio']
 
 // Override or fill in descriptions
 const DESCRIPTIONS = {
